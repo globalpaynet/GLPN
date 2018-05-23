@@ -1,0 +1,9 @@
+Building GlobalPayNet
+
+See doc/readme-qt.rst for instructions on building GlobalPayNet QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GlobalPayNet.
+
+See doc/build-*.txt for instructions on building globalpaynetd,
+the intended-for-services, no-graphical-interface, reference
+implementation of GlobalPayNet.
